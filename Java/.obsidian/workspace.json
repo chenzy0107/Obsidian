@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01fd87223c8a2376",
+        "id": "863696c181ee7fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6e53be5f539030",
+            "id": "8dbbe723d37cb2bd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Java/Java基础/JVM/JVM内存结构（Java8）.md",
-                "bFile": "Java/Java基础/JVM/JVM内存结构（Java8）.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: JVM内存结构（Java8）"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -176,7 +172,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4c6e53be5f539030",
+  "active": "f5ff2fa8b8801dcd",
   "lastOpenFiles": [
     "Java基础/JVM/JVM内存结构（Java8）.md",
     "Java基础/JVM/JVM内存模型.md",
