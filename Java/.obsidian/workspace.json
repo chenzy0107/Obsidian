@@ -11,10 +11,14 @@
             "id": "8dbbe723d37cb2bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java基础/JVM/JVM内存结构(Java8).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "JVM内存结构(Java8)"
             }
           }
         ]
@@ -172,9 +176,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5ff2fa8b8801dcd",
+  "active": "8dbbe723d37cb2bd",
   "lastOpenFiles": [
-    "Java基础/JVM/JVM内存结构（Java8）.md",
+    "Java基础/JVM/JVM内存结构(Java8).md",
     "Java基础/JVM/JVM内存模型.md",
     "Java/JVM.md",
     "Java基础/JVM",
