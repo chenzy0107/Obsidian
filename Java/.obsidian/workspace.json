@@ -11,14 +11,14 @@
             "id": "4c6e53be5f539030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Java基础/JVM/JVM内存结构（Java8）.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Java/Java基础/JVM/JVM内存结构（Java8）.md",
+                "bFile": "Java/Java基础/JVM/JVM内存结构（Java8）.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "JVM内存结构（Java8）"
+              "icon": "diff",
+              "title": "Diff: JVM内存结构（Java8）"
             }
           }
         ]
@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "f5ff2fa8b8801dcd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +178,8 @@
   },
   "active": "4c6e53be5f539030",
   "lastOpenFiles": [
-    "Java基础/JVM/JVM内存模型.md",
     "Java基础/JVM/JVM内存结构（Java8）.md",
+    "Java基础/JVM/JVM内存模型.md",
     "Java/JVM.md",
     "Java基础/JVM",
     "未命名.md",
